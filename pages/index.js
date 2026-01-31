@@ -86,7 +86,7 @@ const Home = () => (
           Pekerjaan
         </Heading>
         <Paragraph>
-          Hey! Aku Haekal, seorang Full-Stack Developer dari Indonesia yang
+          Hey! Aku Haekal, seorang Full-Stack Developer dari Kuningan yang
           senang bikin aplikasi web dan backend yang rapi, scalable, dan enak
           dirawat. Buatku, ngoding bukan cuma soal bikin fitur jalan, tapi juga
           soal bikin kode yang bersih dan mudah dipahami.
@@ -99,7 +99,7 @@ const Home = () => (
             passHref
             target="_blank"
           >
-            PT. Yafii Solusi Indonesia
+            PT. Yafii Solusi Internasional
           </Link>
           . Di luar kerjaan kantor, aku juga sering ngulik project pribadi, coba
           teknologi baru, dan eksplor hal-hal seru di dunia software
@@ -139,7 +139,7 @@ const Home = () => (
             passHref
             target="_blank"
           >
-            PT. Yafii Solusi Indonesia
+            PT. Yafii Solusi Internasional
           </Link>
         </BioSection>
       </Section>

@@ -102,7 +102,7 @@ const Navbar = props => {
                   Pekerjaan
                 </MenuItem>
                 <MenuItem as={MenuLink} href="/posts">
-                  Tulisan
+                  Artikel
                 </MenuItem>
               </MenuList>
             </Menu>
