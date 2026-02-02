@@ -92,7 +92,7 @@ const Home = () => (
           soal bikin kode yang bersih dan mudah dipahami.
           <br />
           <br />
-          Saat ini, aku bekerja sebagai Software Enginerr di{' '}
+          Saat ini, aku bekerja sebagai Software Engineer di{' '}
           <Link
             as={NextLink}
             href="https://www.ysi.co.id/"
@@ -128,7 +128,16 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2024</BioYear>
-          Lulus Sarjana Informatika dari Universitas Siliwangi.
+          Lulus Sarjana Informatika dari{' '}
+          <Link
+            as={NextLink}
+            href="https://unsil.ac.id/"
+            passHref
+            target="_blank"
+          >
+            Universitas Siliwangi
+          </Link>
+          .
         </BioSection>
         <BioSection>
           <BioYear>2023 - sekarang</BioYear>
