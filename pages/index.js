@@ -42,7 +42,7 @@ const Home = () => (
             Rifky Haekal Al-Fadillah
           </Heading>
           <p>
-            Full-Stack Developer · Problem Solver · Ngoding sampai lupa waktu
+            Full-Stack Developer
           </p>
         </Box>
         <Box
