@@ -149,7 +149,7 @@ const Home = () => (
             target="_blank"
           >
             PT. Yafii Solusi Internasional
-          </Link>
+          </Link>.
         </BioSection>
       </Section>
 
